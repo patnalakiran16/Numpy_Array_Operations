@@ -1,0 +1,13 @@
+Array 1: [10 20 30 40 50]
+Array 2: [ 2  4  5  8 10]
+Shape of Array 1: (5,)
+Shape of Array 2: (5,)
+
+Addition: [12 24 35 48 60]
+Subtraction: [ 8 16 25 32 40]
+Multiplication: [ 20  80 150 320 500]
+Division: [5. 5. 6. 5. 5.]
+
+Vectorization:
+NumPy performs operations on all array elements directly.
+
